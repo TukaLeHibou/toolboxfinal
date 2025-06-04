@@ -1,0 +1,5 @@
+Risque,Attaque
+Exposition aux attaques réseau,Scan de ports
+Piratage interne,Spoofing ARP
+Fuite de données,SQL Injection
+Injection de code,Code malveillant
