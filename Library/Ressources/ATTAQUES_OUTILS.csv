@@ -1,7 +1,9 @@
 Attaque,Outil
 Scan de ports,nmap
-Scan de ports,ncat
+Scan de ports,scapy
+Scan de ports,ping
 Spoofing ARP,scapy
 Spoofing ARP,ettercap
 SQL Injection,sqlmap
 Code malveillant,ping
+Code malveillant,RanSim

@@ -1,0 +1,67 @@
+[2025-06-04 15:52:45] [INFO] Démarrage du script v2.0.0
+[2025-06-04 15:52:47] [INFO] Informations collectées - Testeur: test, Client: test
+[2025-06-04 15:52:47] [DEBUG] Lu 5 lignes de ./Library/Ressources/BIENS_RISQUES.csv
+[2025-06-04 15:52:50] [INFO] Bien essentiel sélectionné: Serveur Web
+[2025-06-04 15:52:50] [DEBUG] Lu 5 lignes de ./Library/Ressources/BIENS_RISQUES.csv
+[2025-06-04 15:52:50] [INFO] Risque associé trouvé: Exposition aux attaques r�seau
+[2025-06-04 15:52:50] [DEBUG] Lu 5 lignes de ./Library/Ressources/RISQUES_ATTAQUES.csv
+[2025-06-04 15:52:50] [INFO] Attaque associée trouvée: Scan de ports
+[2025-06-04 15:52:50] [DEBUG] Lu 7 lignes de ./Library/Ressources/ATTAQUES_OUTILS.csv
+[2025-06-04 15:52:51] [INFO] Outil sélectionné: nmap
+[2025-06-04 15:52:51] [DEBUG] Vérification de l'installation de: nmap
+[2025-06-04 15:52:51] [INFO] L'outil nmap est déjà installé
+[2025-06-04 15:52:58] [INFO] Cible sélectionnée: 192.168.200.158
+[2025-06-04 15:52:58] [DEBUG] Chargement de la configuration depuis: ./Library/VulnOSI/level3/nmap.md
+[2025-06-04 15:52:58] [DEBUG] Configuration chargée pour nmap: prereq, command
+[2025-06-04 15:52:58] [INFO] Exécution de la commande: nmap "192.168.200.158"
+[2025-06-04 15:52:59] [DEBUG] Code de sortie: 0
+[2025-06-04 15:52:59] [INFO] Exécution de nmap terminée
+[2025-06-04 15:53:05] [DEBUG] Commentaire saisi: test
+[2025-06-04 15:53:05] [INFO] Génération du rapport: RESULTAT/rapport_20250604_155305_test.md
+[2025-06-04 15:53:05] [INFO] Rapport généré avec succès: RESULTAT/rapport_20250604_155305_test.md
+[2025-06-04 15:53:05] [INFO] Script terminé avec succès
+[2025-06-04 15:57:11] [INFO] Démarrage du script v2.0.0
+[2025-06-04 15:57:13] [WARN] Nom du client invalide
+[2025-06-04 15:57:14] [INFO] Informations collectées - Testeur: test, Client: test
+[2025-06-04 15:57:14] [DEBUG] Lu 5 lignes de ./Library/Ressources/BIENS_RISQUES.csv
+[2025-06-04 15:57:17] [INFO] Bien essentiel sélectionné: Serveur Web
+[2025-06-04 15:57:17] [DEBUG] Lu 5 lignes de ./Library/Ressources/BIENS_RISQUES.csv
+[2025-06-04 15:57:17] [INFO] Risque associé trouvé: Exposition aux attaques r�seau
+[2025-06-04 15:57:17] [DEBUG] Lu 5 lignes de ./Library/Ressources/RISQUES_ATTAQUES.csv
+[2025-06-04 15:57:17] [INFO] Attaque associée trouvée: Scan de ports
+[2025-06-04 15:57:17] [DEBUG] Lu 7 lignes de ./Library/Ressources/ATTAQUES_OUTILS.csv
+[2025-06-04 15:57:18] [INFO] Outil sélectionné: nmap
+[2025-06-04 15:57:18] [DEBUG] Vérification de l'installation de: nmap
+[2025-06-04 15:57:18] [INFO] L'outil nmap est déjà installé
+[2025-06-04 15:57:22] [INFO] Cible sélectionnée: 127.0.0.1
+[2025-06-04 15:57:22] [DEBUG] Chargement de la configuration depuis: ./Library/VulnOSI/level3/nmap.md
+[2025-06-04 15:57:22] [DEBUG] Configuration chargée pour nmap: prereq, command
+[2025-06-04 15:57:22] [INFO] Exécution de la commande: nmap "127.0.0.1"
+[2025-06-04 15:57:22] [DEBUG] Code de sortie: 0
+[2025-06-04 15:57:22] [INFO] Exécution de nmap terminée
+[2025-06-04 15:57:24] [DEBUG] Commentaire saisi: test
+[2025-06-04 15:57:24] [INFO] Génération du rapport: RESULTAT/rapport_20250604_155724_test.md
+[2025-06-04 15:57:24] [INFO] Rapport généré avec succès: RESULTAT/rapport_20250604_155724_test.md
+[2025-06-04 15:57:24] [INFO] Script terminé avec succès
+[2025-06-04 16:04:58] [INFO] Démarrage du script v2.0.0
+[2025-06-04 16:05:00] [INFO] Informations collectées - Testeur: test, Client: test
+[2025-06-04 16:05:00] [DEBUG] Lu 5 lignes de ./Library/Ressources/BIENS_RISQUES.csv
+[2025-06-04 16:05:02] [INFO] Bien essentiel sélectionné: Serveur Web
+[2025-06-04 16:05:02] [DEBUG] Lu 5 lignes de ./Library/Ressources/BIENS_RISQUES.csv
+[2025-06-04 16:05:02] [INFO] Risque associé trouvé: Exposition aux attaques r�seau
+[2025-06-04 16:05:02] [DEBUG] Lu 5 lignes de ./Library/Ressources/RISQUES_ATTAQUES.csv
+[2025-06-04 16:05:02] [INFO] Attaque associée trouvée: Scan de ports
+[2025-06-04 16:05:02] [DEBUG] Lu 7 lignes de ./Library/Ressources/ATTAQUES_OUTILS.csv
+[2025-06-04 16:05:04] [INFO] Outil sélectionné: nmap
+[2025-06-04 16:05:04] [DEBUG] Vérification de l'installation de: nmap
+[2025-06-04 16:05:04] [INFO] L'outil nmap est déjà installé
+[2025-06-04 16:05:08] [INFO] Cible sélectionnée: 127.0.0.1
+[2025-06-04 16:05:08] [DEBUG] Chargement de la configuration depuis: ./Library/VulnOSI/level3/nmap.md
+[2025-06-04 16:05:08] [DEBUG] Configuration chargée pour nmap: prereq, command
+[2025-06-04 16:05:08] [INFO] Exécution de la commande: nmap "127.0.0.1"
+[2025-06-04 16:05:08] [DEBUG] Code de sortie: 0
+[2025-06-04 16:05:08] [INFO] Exécution de nmap terminée
+[2025-06-04 16:05:12] [DEBUG] Commentaire saisi: Aucun commentaire
+[2025-06-04 16:05:12] [INFO] Génération du rapport: RESULTAT/rapport_20250604_160512_test.md
+[2025-06-04 16:05:12] [INFO] Rapport généré avec succès: RESULTAT/rapport_20250604_160512_test.md
+[2025-06-04 16:05:12] [INFO] Script terminé avec succès
